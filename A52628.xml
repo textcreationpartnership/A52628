@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the cruelties &amp; abuses acted by Isaac Dennis, keeper, his wife and servants, in the prison of Newgate, in the city of Bristol, upon the people of the Lord in scorn called Quakers, who were there committed for the exercise of their consciences towards God with an account of the eminent judgments of God upon him, and his end / published for a warning to others, by some of those people who were sufferers under him.</title>
+         </titleStmt>
+         <extent>Approx. 54KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52628</idno><idno type="EEBO-CITATION">13118934</idno>
+  <idno type="VID">97802</idno>
+  <idno type="EEBO-PROQUEST">2240853857</idno>
+  
+            <idno type="STC">Wing N179</idno>
+            <idno type="STC">ESTC R11635</idno>
+            <idno type="OCLC">13118934</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the cruelties &amp; abuses acted by Isaac Dennis, keeper, his wife and servants, in the prison of Newgate, in the city of Bristol, upon the people of the Lord in scorn called Quakers, who were there committed for the exercise of their consciences towards God with an account of the eminent judgments of God upon him, and his end / published for a warning to others, by some of those people who were sufferers under him.</title>
+               </titleStmt>
+               <extent>27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by the sufferers themselves, from Newgate Prison in Bristol, the 6th of the 12th moneth,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated (p. 27): ... the 6th of the 12th moneth, 1683.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dennis, Isaac.</term>
+               <term type="topical_term">Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97802:1"/>
+            <pb facs="tcp:97802:1"/>
+            <p>A NARRATIVE Of the <hi>Cruelties &amp; Abuses</hi> Acted by ISAAC DENNIS KEEPER, His Wife and Servants, In the Prison of <hi>Newgate,</hi> In the City of BRISTOL: Upon the People of the Lord in Scorn called <hi>Quakers,</hi> who were there Committed for the Exercise of their Consciences towards God.</p>
+            <p>With an Account of the Eminent Judgments of God upon Him, and his End.</p>
+            <p>Published for a Warning to others, by some of those People who were Sufferers under him.</p>
+            <q>Seeing it is a Righteous thing with God, to Recompence Tribulation to them that trouble you. <bibl>
+                  <hi>2 Thess. Chap. 1. Vers. 6.</hi>
+               </bibl>
+            </q>
+            <q>For he shall have Judgment without Mercy, that have shewed no Mercy. <bibl>
+                  <hi>James, Chap. 2. Vers. 13.</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97802:2"/>
+            <pb n="3" facs="tcp:97802:2"/>
+            <opener>
+               <salute>Friendly Reader:</salute>
+            </opener>
+            <p>NOtwithstanding the Great God of Heaven and Earth, hath eminently appeared, and signally shewn his Dis<g ref="char:EOLhyphen"/>pleasure, against the Work and Workers of Iniquity, who love the way that is Pleasant in their own Eyes; that no sooner the Enemy presents that to the Mind o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Man, by which he is Captivated from the Life of Righteousness, but there is an aptness thereby begotten to joyn with it, and ad<g ref="char:EOLhyphen"/>here unto it, which through the constancy thereof, and an Ear open thereunto, is drawn away by the Allurements and Presentations comprehended thereby; promising to it Self that which is not in its Power to perform; and so are magnifying Self in the seat of Imagination, to a greater degree of Ease and Pleasure then it can attain unto, by all that is Present or Visi<g ref="char:EOLhyphen"/>ble; but such is the state of Mankind, whil'st alienated from the Life of Righteousness by Wicked Works, yet promises to it Self a Resting-place, whil'st altogether in that which is Pollu<g ref="char:EOLhyphen"/>ted; but let none be mistaken, for as truly as ever it is Record<g ref="char:EOLhyphen"/>ed in the Scriptures of Truth, so hath it been signally manifested, <hi>That there is no Peace to the Wicked;</hi> for as the Prophet said; <hi>Say unto the Righteous, it shall be well with them; but wee unto the Wick<g ref="char:EOLhyphen"/>ed, it shall go Ill with them; for they shall Reap the Reward of their own Doings.</hi> Now such is the Justice of the Almighty, who is Righteous in all his Wayes, and Equal in all his Doings, to render a Reward equally according to the Deeds done in these Bodys, whether Good or Evil; but the Ear being open and at<g ref="char:EOLhyphen"/>tentive to the Allurements of the Enemy, that makes it his work to draw Mankind from hearkening to Wisdom's Voice,
+<pb n="4" facs="tcp:97802:3"/> that thereby many come to be insnared, through the deceivable workings of the Power of Darkness, by which many are drawn into Darkness, not knowing whither they are going; for such is the workings of the Enemy of Man's Salvation, to perswade the Creature that their State and Condition is far better then in<g ref="char:EOLhyphen"/>deed it is, and thereby are deceived; until he come whose Right it is to Reign in the Hearts of all Mankind, and to set Man's Sins in order before him, and Reprove him for them: Then, and not till then, they come to see the deplorable Condition of an Evil Life, which was this poor Man's Condition, That <hi>No Hope of Mercy was left,</hi> as he himself said, for the Ever<g ref="char:EOLhyphen"/>lasting Well-being of his Immortal Soul.</p>
+            <p>Now the very end of this Narrative, is in the first place, to warn all in the love of God, that they so stear their course to the end of their days, that they may arrive at the Haven of Everlasting Rest and Peace, which God the Righteous Judge hath in Store for all that truly love and fear him; for truly it was matter of great Sorrow, not only to the Object, who thus sinned out his day; but also to those that were Ear-Witnesses thereof; when we look back and consider of the great Love of God to Mankind, who would that no Man should Perish, but have Everlasting Life; therefore you to whom this may come, in the love of God we warn you; be Serious and Ponderous in your places of trust, and stifle not the Witness of God, neither in your selves nor in others, which if hearkned unto, will lead you to do that which will give you Peace in your latter End; for truly this is that which is above and beyond all the Pleasures and Delights that this World can afford; think not after Men have lived in Lust and Pleasure, and satisfied their Carnal minds, to get Soul-satisfaction, (which cannot be) <hi>For the Carnal-Mind is at Enmity with God, being not subject to the Law of God, neither indeed can be,</hi> so that such an Imagination, is no less then to con<g ref="char:EOLhyphen"/>clude, that God is Unjust, who is Righteous altogether, and
+<pb n="5" facs="tcp:97802:3"/> will assuredly render Mercy to whom Mercy belongs, and Seve<g ref="char:EOLhyphen"/>rity to whom it belongs also: Therefore let no one spend their time in a loose careless manner, and so run their Race to the end of their Lives, and in the conclusion expect God's favour to shine upon them, although they have lived in Disobedience, Nay, Nay, <hi>But if the Wicked Man turn from his Wickedness, and do that which is Right, then his Wickedness shall be no more remembred,</hi> but his Soul will find a resting place; therefore a Warning to all in the love of God, is on this wise, <hi>Prize your time, and redeem it, for God's Spirit will not alwayes strive with Man, and for the time to come, hearken to the Counsel of the Lord God Almighty, that is made known unto you, lest it be your Lot and Portion, to say with this Poor Man; <hi>There is no Hope for Me.</hi>
+               </hi>
+            </p>
+            <p>We did long undergo his Cruelties Inflicted upon us, and took no particuler account thereof, hopeing of his being better; but seeing his Rage and Fury growing so exceeding Boisterous, cast<g ref="char:EOLhyphen"/>ing up Mire and Dirt; took an Impartial Account, as followeth.</p>
+            <p>The 6th. of the 3d. Month, 1682. The Rage and Wick<g ref="char:EOLhyphen"/>edness of <hi>Isaac Dennis</hi> Keeper, upon <hi>Jeffery Pinell,</hi> who without any occasion given him, ran up into the Room called <hi>The Anchor,</hi> with great fury, saying; <hi>Pinell, <hi>What do'st thou make here? Get Out, or else I will throw thee Out:</hi> J. P.</hi> said, <hi>Why Landlord? what have I done? That is nothing,</hi> (said he) and took me by the arm and threw me to the Door, and was going to throw me down stairs; I then being cutting of Corks, had a Cork-knife in my hand; <hi>Do not so,</hi> said I; then he let me lay down the Knife, and as I was going along he took up my Box in which my Corks was, and threw it at me, and broke the shinn of my Legg very bad, whereupon some Friends came to him to reason the case for his so doing, upon which he grew worse and worse; tearing and halling our Bedding, and threw it down stairs in the Dirt, with other things, calling us <hi>Rogues, Ras<g ref="char:EOLhyphen"/>cals, Atheists, Rebels against God and the King,</hi> with
+<pb n="6" facs="tcp:97802:4"/> many other Evil Expressions, both from him and his Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. This Restless Man sent for one to take down a Bedstead in the Room, called the <hi>Chappel-Chamber,</hi> where he intended to put me, thereby to disappoint me of a lodging there; and he being in a Room called the <hi>Leads-Room,</hi> abusing some of our Friends with bad Language, calling them <hi>Rogues, Rebels, Atheists, Heathens,</hi> and such Vile Expressions.</p>
+            <p>I then going down stairs, and hearing it, said, <hi>Landlord, do not use us after this manner; for the Inhabitants of this City know, we are no such People;</hi> whereupon he called me, <hi>Excommu<g ref="char:EOLhyphen"/>nicated Rogue, he would break my Neck down Stairs.</hi> Therefore I went into a Room called the <hi>Forestreet-Chamber,</hi> where he came after me, and beat me very badly, I not holding up my Hand to save one blow; but desired him <hi>to have a care what he did,</hi> as several then present were Witnesses of, and when he had greatly beaten me, he Swore <hi>He would break my Neck down Stairs,</hi> and in order to perform his Wicked Intent, he caught me in his Arms, and violently carried me to the Stairs to have thrown me down, but as Providence ordered it, I caught hold of the staple of the Door, and cryed out <hi>Murder!</hi> so then the Turn-key ran up and took me away from him, and two of the Debtors took hold of him, and told him, <hi>They would be Witnesses, that he endeavoured to kill me.</hi> Sometime after one of my Ac<g ref="char:EOLhyphen"/>quaintance asked him, <hi>Why he did so abuse me, I not being concerned about the Mony's, he Quarelled with others for; I having been a Pri<g ref="char:EOLhyphen"/>soner but few days, and he had not demanded any Mony of me?</hi> His Answer was, <hi>I was an Excommunicated Rogue; and if he had Killed me, he should never be called to Ac<g ref="char:EOLhyphen"/>count about it.</hi>
+            </p>
+            <p>Witnesses,
+<list>
+                  <item>
+                     <hi>John Cowling,</hi>
+                  </item>
+                  <item>
+                     <hi>Jeffery Pinnell.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:97802:4"/>
+            <p>The 10th of the 10th Month, 1682. <hi>Marabella Fanenborow,</hi> paying for her Lodging the day above recited, demanded a free Priso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as being her right; whereupon she was denyed to come into the room among other Friends, &amp; going into the place, called the <hi>Womens-Ward,</hi> the Keeper spake to <hi>Joan Whitechurch</hi> &amp; <hi>Mary Mor<g ref="char:EOLhyphen"/>gan,</hi> two Condemned Fellons, To <hi>Beat her out of the Room, and throw down her Bedstead, and Wash her out,</hi> calling her <hi>Whore,</hi> with more abusive Language. After a day or two, under pretence she must go to the <hi>Toulsy,</hi> had her forth of the Prison door, and forced her to <hi>Bridewell,</hi> with two Friends more, belching out some of his foam at us, saying, <hi>He had a great many Fools to Work for Him, and therefore he would drink Sack:</hi> Also advising the Keeper of <hi>Bride<g ref="char:EOLhyphen"/>well, That he should keep Friends close, as he did here, and then he might get Mony, as he did;</hi> telling him, <hi>That the Quakers yeilded him Mony when he came and shaked his Purse.</hi>
+            </p>
+            <p>Witness
+<list>
+                  <item>
+                     <hi>Charles Harford,</hi>
+                  </item>
+                  <item>
+                     <hi>Paul Moone.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Now hear <hi>Reader,</hi> because we would not leave thee in the dark, as to the occasion taken by <hi>Isaac Dennis,</hi> to act the Cruelties hereafter related, Know, that we did for a long time gather of our Friends the Jaylors Mony, and paid him his large Demands; but at length he grew so Tyrannical, Vain, Proud, and Foolish, as in part is here before hinted, that he would go about the City, and bragingly make sport of those that paid and took that trouble to gather his Mony upon them, saying, <hi>That he had <hi>Fools Enough</hi> to work for him, and that if he did but shake his Purse to the</hi> Quakers, <hi>he had his Mony brought him;</hi> upon which, besides what is before mentioned, they were no longer willing to gather his Mony for him, but bid him gather it himself; at which he was so much Inraged, that he fell to abusing the Poor, removing them from their Lodgings.</p>
+            <pb n="8" facs="tcp:97802:5"/>
+            <p>Observe, tho we never denyed to pay him, he also in a scornful manner, bid us make our Complaint, accounting it a kindness to him, to be esteemed as one that had no regard to us; by which it appears, that he rather designed Cruelties to inflict upon us, thereby to gain an esteem to himself, and so to keep his place, then that he had the least occasion given him by us.</p>
+            <p>The 6th. of the 11th. Month, the Keepers Wife Locked up several Friends upon the Leads, so that they could not have up their Meat and Drink for their Conveniences, but were forced to draw it up with a Line over the Grate, or else they must have fasted.</p>
+            <p>Witness
+<list>
+                  <item>
+                     <hi>James Gainer,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry James,</hi>
+                  </item>
+                  <item>
+                     <hi>Matthias Jones.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The 11th Instant, the Keeper charged his Man, <hi>Not to suffer any thing to be brought into our Friends except Victuals, and not to suffer any work or working-tools, not so much as a piece of Leather, nor a piece of Board;</hi> notwithstanding they were such Poor Men, that endeavoured to get somewhat towards the Assistance of themselves and Families. Witness <hi>George White.</hi>
+            </p>
+            <p>In the Afternoon of the same day, he commanded those that lodged in a free Prison, called the <hi>Goopers-room,</hi> to go out, and told them, <hi>They must go down into a dark Room, called the</hi> West-house, <hi>and carry their Beds;</hi> and some time after he came and lockt some of them into the said Room, and <hi>William Welchman</hi> the Turn-key, and <hi>John Woluin</hi> the Tapster, came and threw down their Beds and Provisions, and other Necessarys, which they by the Turn-keys leave brought up into another Common Room in the Prison; whereinto the Keepers Wife came, and in a raging furious manner did put her hand into her Pocket, and threatened to <hi>Cutt their Beds,</hi> but the Turnkey perswaded
+<pb n="9" facs="tcp:97802:5"/> her not to do it; then she took the Bedding and threw it to the bottom of the stairs in the dirt, and threw down a Box of <hi>Richard Parkers</hi> and brake it, raging like one D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stracted; a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d those that a ked her where they sho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld put their Beds, she answered, <hi>In the</hi> West hou e: Friend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> said, <hi>There was not Room,</hi> she replyed, <hi>Put them in the Shop or in Powls,</hi> (which is a nasty place) <hi>or where they would, she cared not;</hi> so some of them put it in the <hi>Shop,</hi> and others in the <hi>West house,</hi> which when the Keeper understood, contradicted, fearing lest his Wickedness should be so publick, that it would tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to his great shame, and said, <hi>They should not be there to be a Spectacle to the Town;</hi> and so ordered his Turn-key to put them a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d their Beds into the <hi>West-house,</hi> and Lock the Door upon them, one Friend complaining there was not room, to which, the Keeper said to his Man, <hi>If he could but shut the Door, it would do well enough.</hi> And after this cruel manner did he force all these Poor Men into that Noysome Place, where with the Debtors and Fellons that were there before, there was in all Twenty, it being a round place, about Nineteen Foot Diamiter, and so dark, that they could not see to eat their Food in the day time, but by Candle Light.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>R. Parker,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Pope,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Philbridge,</hi>
+                  </item>
+                  <item>
+                     <hi>C. Oliver,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Cowling,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Gainer,</hi>
+                  </item>
+                  <item>
+                     <hi>H. James,</hi>
+                  </item>
+                  <item>
+                     <hi>J. White.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>J. Philbridge,</hi> a Silk-Weaver, desired a place of the Keep<g ref="char:EOLhyphen"/>er to put his Loome, to get something towards the Maintain<g ref="char:EOLhyphen"/>ance of his Family: To which he scoffingly replyed, <hi>Cannot you make Brick without Straw;</hi> also raging at <hi>Margaret Heal,</hi> and <hi>Elizabeth Harford,</hi> threatning them, <hi>He would remove them to</hi> Bridewell <hi>from their Husbands,</hi> who were Prisoners at the same time, in the same Prison, because he would put them from their Company.</p>
+            <pb n="10" facs="tcp:97802:6"/>
+            <p>And seeing his Cruelty to these Poor Men, we were concerned, and generally as aforesaid demanded of him a free Prison, and gave him liberty to take his Rooms, where several of us lodged, and make the most of them, and put us where he would.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>C. Harford,</hi>
+                  </item>
+                  <item>
+                     <hi>L. Steele,</hi>
+                  </item>
+                  <item>
+                     <hi>P. Moone,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Cowling,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Heale,</hi>
+                  </item>
+                  <item>
+                     <hi>W. Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>M. Jones,</hi>
+                  </item>
+                  <item>
+                     <hi>H. Dedicott,</hi>
+                  </item>
+                  <item>
+                     <hi>T. Kill.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And now the usual time of our Meeting being come, he sent <hi>Welchman</hi> the Turn-key, to fetch all those out that did not lodge in the same Room, who violently haled several out, and tore a great piece out of <hi>J. Pope</hi>'s Coat, of about two Foot long; and pulled <hi>J. Gainer</hi> by the Heels, who had he not took hold by a Bedstead, in all likelyhood had broke his Head; this done, he locked the door, to keep all out except those that Lodged there.</p>
+            <p>The 14th Instant, being first day, <hi>William Welchman</hi> the Turn-key, and <hi>John Woluin</hi> the Tapster, pursuant to the order of the Keeper, went and violently haled us out of our Room, where were met divers Friends, not suffering any to stay here, but such as lodged in that room, and <hi>Welchman</hi> violently threw <hi>Ja<g ref="char:EOLhyphen"/>bez White</hi> down backwards over a high step of the door, and then took him by the Leggs, and endeavoured to turn him over head<g ref="char:EOLhyphen"/>long, which might have taken away his Life; and no sooner were Friends down in the next room and sate down, but the Keeper came and commanded his Man to turn down such as belonged to the <hi>West-house,</hi> and he helping himself, in great rage and fury foamed out, thinking to terrify us, <hi>That our Captain</hi> William Penn <hi>was dead, and that he received Orders from</hi> Rome, <hi>and dyed a</hi> Roman Catholique <hi>in</hi> Pennsilvania, some of us asked,
+<pb n="11" facs="tcp:97802:6"/>
+               <hi>Why we should not have the Priviledge of the Common-Hall, seeing all the rest of the Prisoners had it?</hi> He said, <hi>No,</hi> commanding him that asked the Question to be put into the <hi>West-house,</hi> which is a place they put Men in Sentenced to Dye.</p>
+            <p>Also he used Violence to <hi>Henry James,</hi> who forbad him to thrust him down the stairs; however he had them down and Locked the Door upon them, and kept them there.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>C. Harford,</hi>
+                  </item>
+                  <item>
+                     <hi>J. White,</hi>
+                  </item>
+                  <item>
+                     <hi>H. James,</hi>
+                  </item>
+                  <item>
+                     <hi>W. Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Gainer,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Philbridge.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Elizabeth Harford</hi> spake a few Words to the Keeper, who came forth and commanded Welchman <hi>to take her, and put her into the Room where she lodged;</hi> at the doing whereof, her Husband told him, <hi>That if it were a Company of Drunkards singing, he would let them alone;</hi> and seeing him in such a Brutish Behaviour, he told him, <hi>The day of his Torment was began,</hi> to which <hi>Isaac Dennis</hi> the Keeper replyed, <hi>He did think the Devil had sent us to be a Tor<g ref="char:EOLhyphen"/>ment to him:</hi> He kept us Locked asunder in several Rooms, not only in the Night, but also in the Day time, saying, <hi>The Fellons were Honester Men then we.</hi>
+            </p>
+            <p>The 15th Instant towards the Evening, <hi>Isaac Dennis</hi> the Keeper, came down into the <hi>West-house,</hi> and told the Poor Men, <hi>That he would have no more working there after that day;</hi> and having Locked them up in this miserable place, about the 11th Hour of the Night, came one <hi>Richard Gibbins</hi> a sober Man of this City, to see after what manner these Poor Men were used, with him came also <hi>Henry Backwell,</hi> and the Goaler himself, who after his Wicked Scoffing manner said, <hi>Here they be, here they are willing to be,</hi> to which one of the Prisoners said, <hi>He had thrust them down into that place;</hi> but he being so accustomed to Lying, he cared not what he said; but replyed to him that spake, <hi>It was a Lie,</hi>
+               <pb n="12" facs="tcp:97802:7"/> to which he was answered, <hi>It was no Lie, for he had forced them out of several places where they Lodged, into that noysome Room, and his Wife had thrown down their Bedding, He and his Wife both ordering them to be put into that place:</hi> It's sad to see a Man so Debauched in Conscience, as to deny so apparent a thing, acted by him and his Wife, as before rehearsed: <hi>R. Gibbins</hi> asked the Keeper, <hi>Whether he had no more Room for them?</hi> He seeing that Room so unreasonably filled with Beds and Hamocks, hanging one over another, and they ready to be stifled for want of Air; the Goaler replyed, <hi>He had Room enough at three Pence per Night,</hi> one of the Prisoners replyed, <hi>They did not get three Pence per week:</hi> the Goaler then asked one of them, <hi>Where was the piece of his Coat that was torne,</hi> and said, <hi>He would tare another Piece to morrow, <hi>and they should not get three Pence per week neither<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Richard Gibbins</hi>
+               </hi> told him, <hi>It was too hard for so many to lodge in such a place:</hi> He replyed, <hi>Hang them, <hi>there is room enough for more; H. James</hi>
+               </hi> said, one of the Prisoners; <hi>If it were not for Gods Mercy, more then any Kindness of his, they might be all choaked up or smothered to Death, J. Pope</hi> also told him, <hi>He had no intent to hang them, but to smother them to Death;</hi> as they were going a<g ref="char:EOLhyphen"/>way, they saw a Shoe-makers Seat near the door, which the Goaler commanded to be carryed away, <hi>R. Gibbins</hi> desired him not to do it, <hi>Welchman</hi> the Turn-key espyed a new Shoe, said, <hi>If there had been a Pair, he would have worn them;</hi> so he ordered a Friends Board to be taken away, where one of them did some work, telling them, <hi>That if they went to starve him, he would starve them:</hi> And we do acknowledge, <hi>R. Gibbins</hi> was very Tender and Compassionate toward us, and did much pitty us in our suffering Condition, being an Eye-witness of it, and it being in the City of <hi>Bristol,</hi> (once reputed, <hi>a well Governed City</hi>) and therefore seemed much the worse; for we do not think the like Cruelty can be found in any Prison in <hi>England,</hi> in this Age, neither do we understand, if Report be true, that the Slaves in
+<pb n="13" facs="tcp:97802:7"/>
+               <hi>Algier</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e so cruelly used, in this particul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r; for the Room be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng so close, and so many Men thrust into it, that their Breath made the place like a thick Fogg, and to be close locked for twelve Hours or more altogether in such a place, was enough to have stifled them altogether, there was not distance enough for them to spit on the ground, when their Lodgings were spread, and yet by Hammocks and other shifts they lay three one over another.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>G. White,</hi>
+                  </item>
+                  <item>
+                     <hi>H. James,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Gainer,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Pope,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Philbridge,</hi>
+                  </item>
+                  <item>
+                     <hi>Clem. Oliver,</hi>
+                  </item>
+                  <item>
+                     <hi>R. Parker.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The next Passage was, <hi>Woluin</hi> the Tapster, came and took away their Work from them, by the Goalers Order.</p>
+            <p>Observe, our Friends were <hi>Taylors</hi> and <hi>Shoe-makers,</hi> that did endeavour to do something towards a Livelyhood, but were forced to burn Candle by Day and Night, the place being so very dark.</p>
+            <p>The 17th Instant, the Goalers Wife went down to the <hi>VVest-house,</hi> and took from the Prisoners their Work, it being a Parcel that they were making for a People of the City, and <hi>J. Gainer</hi> was commanded down out of the <hi>Common-Hall,</hi> for working there at his Trade, being a Taylor, and for no other cause.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>J. Gainer,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Philbridge,</hi>
+                  </item>
+                  <item>
+                     <hi>H. James.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The 19th Instant, the Goaler when we were met together to wait upon the Lord, came and demanded upon what occasion we were met, although he knew it had been our practice three times a week to meet on that occasion, and he had let us alone
+<pb n="14" facs="tcp:97802:8"/> without disturbance, yet now to pick a Quarrel, because we did not go out of the Room at his bidding, he came again, &amp; brought with him his Turnkey, Tapster, and three Constables, and made a great busle, and spoke to the Constables to keep the Peace; when there was nothing done like a breach of the Peace by any of u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and his Folly appeared so much to the Constables, that when they came into the Room, they stood as Men amazed, and after some time went quietly away out of that Room, as we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udge, being ashamed to see so much Folly in the Keeper; so he and his Men took several of us out of the Room into the <hi>Common-Hall,</hi> and there he raged against <hi>Charles Harford,</hi> saying, <hi>If it were not for him, the rest would be well enough:</hi> Whereupon <hi>Charles Har<g ref="char:EOLhyphen"/>ford</hi> warned him not to tell Lies, and told him, <hi>He did suffer People to drink Brandy and other drink, until one lately drank himself dead,</hi> or words to that effect; and so the Keeper having tryed his strength by the Constables, and saw that would not do his work, he threatned us with his dirty Language, and signified <hi>He would keep us locked in our Rooms, that we should not go forth to ease our Bodys;</hi> he thrust and abused several Friends, and struck some of them on the head with one of the Constables Staves, before the Constables went out of the Prison, saying, <hi>Will you make a Munity?</hi> being as we supposed willing to have it so, seeking all the occasion he could against us, but the Lord was our Keeper, and kept us in Patience, although his Cruelty and Provocations were many and great, yet not one of us from first to last did ever resist him, but in patience did bear all his Cruel<g ref="char:EOLhyphen"/>ties, and after some small stay the Constables went away, and at their going, one of us spake to them, to acquaint their Neigh<g ref="char:EOLhyphen"/>bours how we were used, the Constables to give them their due, behaved themselves very moderately: then the Goaler being present, <hi>Margaret Heal</hi> spake a few words, at which he being inraged, came and laid hands on her, she saying to him, <hi>God was with us, and would torment the VVicked,</hi> but he scoffingly asked,
+<pb n="15" facs="tcp:97802:8"/>
+               <hi>Is not Meeting time over, for the Spirit is departed;</hi> and after this manner he behaved himself with much more abusive words to us, too long here to recite, this being but a part of his abuses of us in the Prison, and far short of the abuses we received of him that day.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>C. Harford,</hi>
+                  </item>
+                  <item>
+                     <hi>VV. Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Cowling,</hi>
+                  </item>
+                  <item>
+                     <hi>P. Moon,</hi>
+                  </item>
+                  <item>
+                     <hi>M. Jones,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Gainer,</hi>
+                  </item>
+                  <item>
+                     <hi>Jabez VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>R. Parker.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The 21th Instant, being first day, he locked us apart in seve<g ref="char:EOLhyphen"/>ral places, so that we could not come to see each other for great part of the day.</p>
+            <p>The 22th Instant, <hi>VVilliam VVelchman</hi> the Turnkey, and <hi>John VVoluin</hi> the Tapster, went into the <hi>VVest-house,</hi> and there took away what they could find of Friends Working-Tooles, and other Materials which they used to work upon, for a support to themselves and Families.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>C. Oliver,</hi>
+                  </item>
+                  <item>
+                     <hi>H. James,</hi>
+                  </item>
+                  <item>
+                     <hi>J. Gainer.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The 23th Instant, <hi>Margaret,</hi> the Wife of <hi>Jo. Heale,</hi> being taken very Sick to the 26th and then being near departing out of this Life, <hi>Lawrence Steel</hi> and <hi>Paul Moon</hi> desired to go and visit her before she dyed, she being a Prisoner in the same Pri<g ref="char:EOLhyphen"/>son with them, but was denyed by the Tapster, he saying, <hi>That his Master</hi> Isaac Dennis <hi>would not give leave;</hi> this piece of Cruelty we think cannot be parallel'd in this Age, that Friends and near Acquaintance should be denyed to see each other before they dye, especially being Fellow-Prisoners. Witness, <hi>L. Steel, P. Moon, J. Cowling, M. Jones, R. Parker.</hi>
+            </p>
+            <pb n="16" facs="tcp:97802:9"/>
+            <p>The 2d of the 12th Month, <hi>Isaac Dennis</hi> Commanded his Man, <hi>To go into the VVest-house, and hinder Friends from their work, and commanded away their Candles, and to break their Candles to Pieces,</hi> notwithstanding they were their own.</p>
+            <p>The 3d Instant, the Turnkey and Tapster came down into the <hi>VVest house,</hi> where several Friends were at work by Candle<g ref="char:EOLhyphen"/>light, the place being so dark, that they could not see in the middle of the day to work, by Daylight; yet so violently they behaved themselves towards Friends, that Friends warn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d them <hi>not to Murther them,</hi> yet <hi>VVil. VVelchman</hi> the Turnkey, Wickedly beat <hi>Jabez VVhite,</hi> and halled him, who once before was like to have broken the same Friends Neck, by throwing him down backwards, and said, <hi>It was not two Farthings odds if he had done so:</hi> after they had violently halled them out, locked the door, they would not suffer them to have their Victuals.</p>
+            <p>Witness, <hi>Jabez VVhite, J. Pope, Clem. Oliver, H. James.</hi>
+            </p>
+            <p>The 4th Instant, The Keeper commanded his Turnkey and Tapster to hurle them into the <hi>VVest-house,</hi> with others that did not belong to the Room, and locked them there, from about Eight in the Morning until Four in the Afternoon; although the place afforded them not a conveniency to ease themselves, and also Friends in the <hi>Chappel-Chamber</hi> were denyed to have their necessary Food, to be brought to them; and some of the <hi>Chapple-Chamber</hi> having occasion to ease their Bodys as Nature required, but were denyed by the Tapster, to wit, <hi>John VVoluin,</hi> saying, <hi>That his Master commanded the contrary.</hi> Witness, <hi>VV. Tay<g ref="char:EOLhyphen"/>lor, J. Cowling, P. Moon, T. Kill, J. VVhite, C. Oliver, J. Philbridge, S. Dickson, VV. Tibbut,</hi>
+            </p>
+            <p>The 6th of the 12th Month, The Keeper shewed his Wick<g ref="char:EOLhyphen"/>edness in a greater degree, to the Friends in the Dungeon-like place called the <hi>VVest-house,</hi> locking them in, from about Eight at night until the middle of the next day; some of them desired in the Morning, <hi>That they might go and ease themselves, as Nature
+<pb n="17" facs="tcp:97802:9"/> did require,</hi> and promised <hi>to come in again,</hi> but it would not be admitted of, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling them, <hi>They should do it in the same Room,</hi> although 19 Persons lodged there, and but very little Air, yet such was their Cruelty to Friends, that they were forced to empty the Chamber-pots by the door, it being a place which had two Doors. We now give the Reader leave to judge whether this was Christianity of Humanity. Witness, <hi>H. James, J. Gainer, J. Pope, J. VVhite, J. Philbridge, C. Oliver.</hi>
+            </p>
+            <p>The Wickedness and Cruelties of the Keeper growing to such a height, we thought it convenient to present it to the Ma<g ref="char:EOLhyphen"/>gistrates of the City, as followeth,</p>
+            <p n="1">1st, <hi>OF the Deprival of our poor Friends of their usual place of work, and also of their frequent taking away their Work and Materials, and the denyal of Work to be brought in to them, or liberty to make use of it, though in their own Room, to the hinderance of a supply to themselves and their Indigent Families, contrary to the</hi> Statute, <hi>made in the 19th Year of</hi> Charles <hi>the 2d.</hi> Chap. 4. <hi>which provideth that a Stock may be raised for the setting Poor Prisoners to Work.</hi>
+            </p>
+            <p n="2">2dly, <hi>Of the want of Conveniences of Room for Lodging, and of Air to breath in, by reason of the thronging and crowd<g ref="char:EOLhyphen"/>ing of so many together,</hi> (viz) 15 <hi>in one Chamber,</hi> 17 <hi>in another, and</hi> 19 <hi>in a dark Dungeon-like place, where the Con<g ref="char:EOLhyphen"/>demned Felons are put before Execution, where they have not Room to spread their Bedding, but are forced to hang their Hamocks one over another, it being a damp Earthen Floor, having but small enterance for Light or Air, by which they</hi>
+               <pb n="18" facs="tcp:97802:10"/>
+               <hi>are in danger to be stifled and smothered to Death, if the Lord prevent not.</hi>
+            </p>
+            <p n="3">3dly, <hi>Of the Lodging of several of us with Felons in the same Room, contrary to the Act made in the</hi> 22 Charles 2. Chap. <hi>20th, which forbids the same, upon Penalty of the Forfeiture of the Keepers place, and treble Damage.</hi>
+            </p>
+            <p n="4">4thly, <hi>Under pretence of keeping us from meeting toge<g ref="char:EOLhyphen"/>ther for the Worship of God, we have been lately lockt into our several Chambers, for about Eight Hours together, with<g ref="char:EOLhyphen"/>out Liberty to go forth upon any occasion, nay, when</hi> Mar<g ref="char:EOLhyphen"/>garet Heale, <hi>one of our Fellow Prisoners, was near the time of her Death, in the same Prison, upon earnest request we were denyed by the Keeper to go out of the Room to see her; farther, our Friends that lodged in the Dungeon-like Place before-mention'd, were locked up there for the space of Six<g ref="char:EOLhyphen"/>teen Hours, during which time they were not suffered to go forth to Ease their Bodies, though they promised to return a<g ref="char:EOLhyphen"/>gain speedily; neither was their necessary Food permitted to be brought unto them. These being a part of the Rigorous Dealings and Extremityes, which we have of Late sustained from the Keeper, which have an Apparent tendency to the taking away of our Lives, and that in A clandestine manner: While at the same time We are Exposed to Ruine in our Con<g ref="char:EOLhyphen"/>cerns Abroad. We desire that according to your Power and Authority you would interpose between us and the destruction that seems to threaten us, and that you would Moderate these severites into the Allowance of those Necessary Accommodations</hi>
+               <pb n="19" facs="tcp:97802:10"/>
+               <hi>and priviledges of Air to breath in, and Room to Lodge in, and Liberty for our poor to work, Allowed in Other of the Kings Prisons, We are thus far Clear in the Presenting this unto you, and we desire the Lord may Incline your hearts to Justice, Moderation and Mercy towards your Distressed Friends and Neighbours.</hi>
+            </p>
+            <p>Note, when the Court was ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourned, the Goaler came to one of our Friends a Prisoner, who deridingly ask't him, <hi>to go home with him, and draw up another Petition,</hi> to which the friend replyed, <hi>VVas not that true which was read,</hi> his Answer thereto was, <hi>he did not deny the truth of it;</hi> so that he consuted his former Lying Objections, and manifested himself as before Recited. Witness M. Jones.</p>
+            <p>The 15 Instant <hi>Welshman</hi> the Turn Key, by the Command of his master, came according to his usual manner, and took away Friends Work.</p>
+            <p>The 20th Instant, the Keeper, and his Turnkey, and Tap<g ref="char:EOLhyphen"/>ster, according to their former Cruelties, came into the <hi>West-house,</hi> took away from Friends several things, yet were not satisfied therewith, but the Keeper took an Iron Screw-Candlestick, and broke the bottom of it about the <hi>Head</hi> and <hi>Shoulders</hi> of <hi>Tobias Dimock,</hi> throwing him backward against the Corner of a Chest. Witness <hi>Paul Moon, Tobias Dimock, James Gainer, H. James, C. Oliver.</hi>
+            </p>
+            <p>The 26th Instant, the Sheriff and the Sub Sheriff came and viewed the Goal; whereupon we laid our Complaints before him, occasioned by the Tyranny of the Goaler, as we parti<g ref="char:EOLhyphen"/>cularly manifested our great Wrongs and Cruelties inflicted on us, altogether without any just cause given him by us; we truly laid before him his crowding so many of us together in our particular Rooms, and Lodging of us in the same Room with <hi>Fellons;</hi> and also deteining us from our honest Employ<g ref="char:EOLhyphen"/>ment,
+<pb n="20" facs="tcp:97802:11"/> whereby we might be helpful towards the Maintainance of our Wives and Children; those who did endeavour to Work in the day time by Candle light, had thetr Work taken from them, with many other gross abuses; we then shewed him the Statute made for the raising a Stock to set Prisoners on Work: Whereupon the Sheriff promised, <hi>VVe should have what benefit the Law did prescribe:</hi> Yet notwithstanding upon the 28th Instant, a Friend endeavouring to take that Christian care for his Family, caused his Maid to bring him some Work, but was turned back by the Keeper, whereupon the Maid asking, <hi>VVhether it was the Sherif</hi>'s <hi>Order?</hi> He replyed, <hi>His Master or<g ref="char:EOLhyphen"/>dered him so to do.</hi> Witness, <hi>P. Moon, T. Bayly, M. Jones, C. Harford.</hi>
+            </p>
+            <p>The 11th of the 1st Month, 1682/3. the Officers brought into the Prison, two Men, four Women, and three Children, the Women wanting Lodging, and one of the Men, namely <hi>Richard Lindy,</hi> about 90 Years of Age, and being Blind, was forced to sit up three Nights in a Chair, notwithstanding a Friend offered to pay for his Lodging. Witness, <hi>P. Moon, J. Cowling, M. Jones.</hi>
+            </p>
+            <p>The 14th Instant we made our Address to the Recorder, hoping we should have some relief, and so have the gross Abuses regulated by him; but contrary-wise, assoon as the Goaler returned from bringing him out of Town, he began according to his old Tyrannical Custom, to warn and threaten Friends to put away their Work, and from that time forwards they should not work, except it be Knitting and Bonelace making; saying also, <hi>That the Recorder and the Mayor ordered him so to do:</hi> the truth of which is very questionable to us, we having large knowledge of his reports to us to be usually false.</p>
+            <p>Witness, <hi>H. James, M. Jones.</hi>
+            </p>
+            <p>The 19th Instant, his Fury growing hot, he came with his two Men into the <hi>VVest-house, viz. W. Welchman</hi> and <hi>John Wo<g ref="char:EOLhyphen"/>luin,</hi>
+               <pb n="21" facs="tcp:97802:11"/> as aforesaid, and <hi>Commanded Friends forth of their Lodging,</hi> it being the place where he formerly thrust them in, and for that they did not presently obey his Order, he and his men fell to halling and pulling of them, but not obtaining their end, commanded his Turn-key to fetch hand-bolts, for no other rea<g ref="char:EOLhyphen"/>son but being at their honest Imployments, in their Dungeon-like lodging place, where they wrought by Candle all the day; so having halled out one of the Friends, he locked the door upon five that were left behind.</p>
+            <p>His Rage rested not here, but denyed their Food to be brought to them; and also denyed the Father of one of the Friends to see his Son.</p>
+            <p>Note, the Woman that brought the Victuals, went to the Mayor, and com<g ref="char:EOLhyphen"/>plained of his Cruelties; whereupon he sent an Officer, and commanded him to let them have it in, and also the man to see his Son.</p>
+            <p>Witness,
+<list>
+                  <item>
+                     <hi>C. Harford,</hi>
+                  </item>
+                  <item>
+                     <hi>M. Jones,</hi>
+                  </item>
+                  <item>
+                     <hi>P. Moon,</hi>
+                  </item>
+                  <item>
+                     <hi>H. James,</hi>
+                  </item>
+                  <item>
+                     <hi>I. Gainer.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Rage and Fury of the Goaler, growing higher and higher, we thought it necessary to lay it before the Magistrates, which we did as followeth, the 25th of the 2d Month, 1683.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>The Truth of Matters Vindicated, against the False Exclamations of <hi>Isaac Dennis,</hi> Keeper of New<g ref="char:EOLhyphen"/>gate-Prison, in the City of <hi>Bristol.</hi>
+                        </head>
+                        <p>VVHereas he hath indeavoured publickly to insi<g ref="char:EOLhyphen"/>nuate into the Minds of People, that <hi>Charles Harford, is a Leader of the People called</hi> Quakers, <hi>in the Goal of Newgate.</hi> To take off that false Aspertion,
+<pb n="22" facs="tcp:97802:12"/> we could do no less then clear his Innocency therein; and justly lay the falshood of the Assertion on the head of the Ex<g ref="char:EOLhyphen"/>claimour.</p>
+                        <p n="1">
+                           <hi>1st.</hi> That we never did, neither is it our practice to set Man or Men as Heads over us; for we were not gathered to<g ref="char:EOLhyphen"/>gether by Men, but by the Lord: Notwithstanding we are for the upholding of Rulers and Magistrates, for a terror to Evil-doers, and a praise to them that do well, it being Just and Righteous in the sight of God.</p>
+                        <p n="2">
+                           <hi>2dly.</hi> That the grievous Opression under the Tyranical dealing of the Keeper, is the real cause of our Complaint, in his thronging so many of us together in one Room, which had not the Mercy of God prevented, far beyond the will and plea<g ref="char:EOLhyphen"/>sure of the Keeper, we might ere this time been stifled.</p>
+                        <p n="3">
+                           <hi>3dly.</hi> His Cruelties in keeping us from our lawful Im<g ref="char:EOLhyphen"/>ployments, the thing necessary for the Maintainance of us and our Families, which if so continued, will wholy make us un<g ref="char:EOLhyphen"/>capable of paying any thing for our Chamber-rent.</p>
+                        <p n="4">
+                           <hi>4thly.</hi> That those of us who are yet of Ability, have not denyed that which is reasonable for our Chamber-room, al<g ref="char:EOLhyphen"/>though the contrary is falsly insinuated; but we cannot answer the oppressing end of the Goaler, lest our Wives and Children want that which is needful; many of us being great Sufferers by reason of our long Confinement: This and much more we might justly assert, it being really true: But to God we commit our cause, who in his time will plead our Innocency, and the refuge of Lies shall fail, and return upon the head
+<pb n="23" facs="tcp:97802:12"/> of the Maker thereof: From them that seek the welfare of all Mankind both Soul and Body.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The 27th of the 2d Month, 1683. A Friend, namely <hi>Cle<g ref="char:EOLhyphen"/>ment Oliver</hi> being very Ill, whose lodging was in the Dungeon-like place aforesaid, came and sate by our own Fire in the <hi>Chappel-Chamber,</hi> because of the exceeding dampness of that place, which is very destructive, hoping to get a little succour by the Fire, to the help of his sick Body, because he came out of a sweat; yet such was the Keepers Wickedness, Tyrant-like, to com<g ref="char:EOLhyphen"/>mand the sick Man from thence; so having no other place, went into that noysom place aforesaid: Another Friend, name<g ref="char:EOLhyphen"/>ly <hi>Jabez, VVhite,</hi> bringing something for the sick Man, whil'st in the <hi>Chappel-Chamber,</hi> the Keeper examined him, <hi>VVhither he was going?</hi> he replied, <hi>He had some business in that Room to the sick Man;</hi> asking, <hi>If he might not go from one room to another?</hi> to which the Keeper sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, <hi>He should not, that was his will:</hi> the Friend said unto him, <hi>The Man was very Ill, and if so be thou wilt not suffer him to be there, thou would'st do well to have Him in the</hi> Kitchin, <hi>and to consider the sick, for thou mayst be sick thy self:</hi> Who for so saying, he and his Man wickedly endeavoured to throw him down stairs, but not performing his intent at that Pair of stairs, he and his Wife took hold of him by the hair of the Head, and threw him down the other stairs below, when he had so done, he and his Man took him up and put him into the <hi>VVest-house</hi> aforesaid, Witness, <hi>P. Moon, H. Didicot, J. Heale, C. Oliver, Ja. VVhite.</hi>
+            </p>
+            <p>About the 18th of the 7th Month, an Honest Man, namely <hi>Thomas Hay<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> a Man of good report in his Conversation amongst his Neighbours and Acquaintance, &amp; of a good savour in his life amongst Friends, falling very ill, desired some liberty to be out from the noise of the <hi>Swearers</hi> and <hi>Drunkards</hi> in the Goal; upon which request, the Sheriff sent his Man with an Order to do it, yet notwithstanding the Keeper would not per<g ref="char:EOLhyphen"/>form
+<pb n="24" facs="tcp:97802:13"/> it, having an Enmity against the Friend without any just cause, unless the Sheriff sent an Order under his hand, and so was deteined until his death; who ended his dayes in sweetness and in the love of God, who bore up his Spirit over all the Cru<g ref="char:EOLhyphen"/>elties of the Wicked, he departed this life the 3d of the 8th Month, 1683.</p>
+            <p>The 31th of the 8th Month, a Friend, namely <hi>Thomas Arnell,</hi> being very ill, about three or four days before his death, desired Friends company in the Room to wait upon the Lord, after some time <hi>Dorcas Dole</hi> spoke to Friends by way of Exhortation, upon whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>W. VVelchman</hi> the under Keeper, came in a r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de and Wicked manner, and halled her forth of the Room, and after some little time she came in again, and being in Prayer to the Lord upon her Knees, <hi>Welchman</hi> came in again and rudely halled her forth, and the Keepers Wife, according to her former custom, Wickedly abused Friends, she throwing them down and halling them in a most shameful manner and kickt one Woman, and made bunches in her Flesh, and halling another, and threw her down in such a violent manner, over the Treshold of a door, that she spit Blood three days after, a Friend standing by, stopped some of her malicious indeavours, which was to have thrown down the same party down staires; for which cause and no other, she halled him by the hair of the Head. Witness, <hi>T. Bayly, J Couling, H. James, C. Harford, J. White, J. Gainer.</hi>
+            </p>
+            <p>Thus Reader thou hast in particular some of the gross abuses we received from <hi>Isaac Dennis,</hi> his Wife and Servants, and the Cruelty they acted toward these poor Men in the <hi>west-house,</hi> for about eighteen weeks time, but besides this, he would frequent<g ref="char:EOLhyphen"/>ly call us <hi>Rogues, Whores, Cheats, Papists, worse then Fellons,</hi> with abundance more of such wicked abusive Language; and one thing more we would acquaint thee of, which shewed his Malice towards us lasted as long as he was able to act it. It pleased the Lord to visit some in the Prison
+<pb n="25" facs="tcp:97802:13"/> with the <hi>Spotted-Feavor,</hi> whereof <hi>Three dyed,</hi> the last of which dyed the 4th of the 9th month, 1683. After which, there fell two more sick, whereupon we desired leave of <hi>Isaac Dennis, <hi>That they might go forth in order to their recovery, and we would engage that they should be returned Alive or Dead?</hi>
+               </hi> And he pretended he was very willing, only would have us write to the Magestrates and Sheriffs to have their consents, promising he would further the matter what he could; which we accord<g ref="char:EOLhyphen"/>ingly did, and were informed, that some if not all the Magi<g ref="char:EOLhyphen"/>strates were willing to perform our request; but <hi>Isaac Dennis,</hi> contrary to his promise, to hinder the matter; told them, <hi>There was no such distemper as the <hi>Spotted-Feavor</hi> in the Prison,</hi> and whereas we complained of so many that lodged in one room, where one of the Sick persons did lodge, he told them, <hi>He had room enough in the Prison for us, that we need not lodge above four in a room:</hi> When he had not at that time above two Beds empty in any Room, where Prisoners used to lodge, which shewed a great deal of hardness and cruelty in <hi>Isaac Dennis;</hi> not only to the sick persons, but also to us that were confined in the same Room, and by his means our request to the Magistrates was wholy frustrated.</p>
+            <p>But at length, now it pleased the Lord to Visit <hi>Isaac Dennis</hi> the Keeper with his Judgments, which were very dreadful; for about the middle of the 8th month, 1683. It was so terrible to him that he could not eat nor sleep but very little, and yet by day he would strive against it, and by drinking and keeping of vain company, endeavoured to get ease of his troubled Con<g ref="char:EOLhyphen"/>science; and while the strength of the Liquor was in him, by day he would seem as if nothing were amiss, but at night he was in a Woeful Agony, and would shake and tremble, and sweat cold sweats, then he would desire us to <hi>Pray for Him,</hi> and <hi>Wish he had never seen the Inside of the Goal;</hi> saying, <hi>It had undone him;</hi> he desired several of us <hi>to Forgive him for
+<pb n="26" facs="tcp:97802:14"/> what he had done:</hi> to which we answered, <hi>that he should ask for<g ref="char:EOLhyphen"/>giveness of God, for we did forgive him;</hi> but yet still his Anguish and Torment Increased; so that it was feared he might be Dis<g ref="char:EOLhyphen"/>tracted, but then Doctors being sent for and Come, Caused him to be let Blood, but he told them, <hi>no Phisick would do him good, his Distemper being another thing, and that no man could do him Good, his Day was Over, and there was no hope of Mercy from God for him,</hi> and seeing him in this Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull Condition, our hearts did pity him, and desired <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the will of the Lord was so he might find a place of Repentance;</hi> and some of us had Opportunity to speak with him; and we found that he had his Senses and Understanding well, and we used such arguments, as in our Christian tenderness we though best to per<g ref="char:EOLhyphen"/>swade him out of his Hardness and unbelief; one of us said unto him, <hi>we hoped his day was not Over, because he had a Sense of his Condi<g ref="char:EOLhyphen"/>tion;</hi> to which he answered, <hi>I thank you for your good hope, but I have no Faith to believe,</hi> and further said, <hi>Faith is the gift of God,</hi> so nothing would enter him, but <hi>that his day was Over,</hi> and <hi>there was no Mercy for him,</hi> and in this Miserable Estate he continued without any alteration as we understood un<g ref="char:EOLhyphen"/>till the 30th of the 9th month, 1683. about the 4th hour in the morning ended his Miserable Life. Witness <hi>C. Harford, C. Jones, J. Cowling, Paul Moon.</hi> And thus having given an Account of the Actions and End of this Man, chiefly that Others who have yet a day left may hear and fear the Living God, and not resist the Lords reproofs on their Consciences, and to please and gratifie other men, do that which will bring misery in the latter end, as was the case of this man, who in his own nature we are per<g ref="char:EOLhyphen"/>swaded was not apt to be so Cruell, but seeing such actions did please &amp; gratifie others, &amp; a likely way to keep himself in favour, did act many times against the Light of his own Conscience, which brought this terror on him at his latter End, and made him wish in our hearing, <hi>that he had never seen the inside of the Goal; for it had undone him.</hi>
+            </p>
+            <pb n="27" facs="tcp:97802:14"/>
+            <p>So in love to all, but Especially to those who are Officers, we thought it our duty to warn them that they take heed to their wayes and actions, for every man must give an account for him<g ref="char:EOLhyphen"/>self to God the Righteous Judg, who will render a reward to them according to their deeds, whether they be good or evil, and then no Comand nor Love of man will stand for a plea, when the ter<g ref="char:EOLhyphen"/>rors and Judgments of the Lord are upon the Conscience, then it may be too late to wish, they had done otherwise, and therefore while the Lord strives with you, resist not; for his Spirit will not alwayes strive with man; for when that leaves Striving and Re<g ref="char:EOLhyphen"/>proving, then men are left to fulfil their own Hearts Lusts, and so bring Wo and Misery on themselves in the latter end.</p>
+            <p>This is not made Publick, the Lord knows, out of any Revenge to the Persons Concerned, but as a warning to all; neither is it of any self-boasting, as though by our own ability we had undergone all these Crueltyes inflicted on us, but to him that Lives for ever more do we ascribe the Glory, by whose Power alone we have been supported; and if through this Example of Gods Judgments on this man it shall stop any from their Evil Courses, we have our End.</p>
+            <closer>
+               <dateline>
+                  <hi>Published by the Sufferers themselves, from</hi> Newgate Prison <hi>in</hi> Bristol,
+<date>
+                     <hi>the</hi> 6th <hi>of the</hi> 12th <hi>Moneth,</hi> 1683/4.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:97802:15"/>
+            <head>
+               <hi>POSTSCRIPT. <hi>Queen MARY.</hi>
+               </hi> In the Third Volumn of the <hi>Martyrs, fol. 170.</hi> In the Story and Examination of <hi>Dr. Rowland Taylor, Martyr. Doctor Taylor</hi> carryed to Prison to the <hi>Kings-Bench,</hi> where he lay Prisoner almost two Years.</head>
+            <p>BEing in Prison, Dr. <hi>Taylor</hi> spent all his time in Prayer, reading of the Holy Scriptures, and <hi>Writing,</hi> and <hi>Preaching,</hi> and <hi>Exhorting</hi> the Prisoners &amp; such as resorted to him to <hi>Repentance</hi> &amp; <hi>Amendment</hi> of Life.</p>
+            <p>Within a few days after, were divers other Learned and Godly Men in sundry Countys of <hi>England,</hi> Committed to Prison for Religion; so that almost all the Prisons in <hi>England</hi> were become right <hi>Christian-Schools</hi> and <hi>Churches:</hi>
+               <note n="*" place="margin">Prisons turned into Churches, and Churches into Dens of Thieves.</note> So that there was no greater Comfort for <hi>Christian</hi> Hearts, then to come to the Prisons to behold their vertuous Conversa<g ref="char:EOLhyphen"/>tion, and to hear their Prayers, Preachings, most Godly Exortations and Consolations.</p>
+            <p>Note, That in that time of <hi>Popery,</hi> this Persecuted <hi>Protestant-Martyr,</hi> had Liberty in Goal, to Pray, Preach and Exhort his fellow Prisoners, and such as <hi>Resorted</hi> to him, <hi>&amp;c.</hi> Though this Goaler would not suffer the People of God, called <hi>Quakers,</hi> to Pray to God and Exhort one a<g ref="char:EOLhyphen"/>nother, and such that come to see them, to Repentance and Amendment of Life. Nay, such was his Cruelty, that he would not suffer them to sit together in the Prison, to wait upon and Worship Almighty God, nor see one another, when Sick and near unto Death; neither to work to get their Bread, or something towards, <hi>(O Horrid Cruelty!)</hi> nor suffer to have their <hi>Victuals</hi> brought them, neither to <hi>Ease</hi> themselves as <hi>Nature</hi> did require, nor scarce room to breath in.</p>
+            <p>
+               <hi>But the Lord preserveth all them that love him: but all the Wicked will he destroy.</hi> Psal. 145.20.</p>
+            <p>
+               <hi>And happy is he that hath the God of Jacob for his help, whose hope is in the Lord his God, which executeth Judgment for the Oppressed, which giveth Food to the Hungry: the Lord looseth the Prisoners,</hi> Psal. 146.5, 7.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
